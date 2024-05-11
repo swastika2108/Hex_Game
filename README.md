@@ -12,5 +12,22 @@ Hex is a strategic two-player game that offers a captivating blend of simplicity
 ## Game UI Design
 ![alt text](https://github.com/swati323ch/Hex_Game/blob/main/GT2.png?raw=true)
 
+## Game Functions - 
+ ### Player Selection Function - 
+* Allows users to choose the type of player for each side
+* Human player for both sides.
+* Computer-based player for one side (if desired).
+### Home Page Display Function - 
+* Displays a home page where users can select their preferences before starting the game.
+* Provides options for player types and other game settings.
+### Tile Drawing Function - 
+
+* Draws colored tiles on the game board based on player preferences.
+* Differentiates between player colors (e.g., red and blue).
+### Game Statistics Function:
+
+* Displays the number of moves made by the red and blue players.
+* If one player is a computer, it also shows the maximum and average thinking time of the computer after the game ends.
+
 ## Game in Terminal
 ![alt text](https://github.com/swati323ch/Hex_Game/blob/main/GT3.png?raw=true)
