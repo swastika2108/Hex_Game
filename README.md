@@ -9,3 +9,8 @@ Hex is a strategic two-player game that offers a captivating blend of simplicity
 * Counters may not be moved except with the swap rule.
 * The first player to form a connected path of their counters linking the opposing sides of the board marked by their colour wins.
 
+## Game UI Design
+![alt text](https://github.com/swati323ch/Hex_Game/blob/main/GT2.png?raw=true)
+
+## Game in Terminal
+![alt text](https://github.com/swati323ch/Hex_Game/blob/main/GT3.png?raw=true)
