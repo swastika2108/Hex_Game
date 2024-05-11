@@ -4,7 +4,8 @@ Hex is a strategic two-player game that offers a captivating blend of simplicity
 * The main objective of the game is to create an unbroken path connecting the two opposite sides of the board.
 * One player aims to connect the top and bottom sides, while the other player aims to connect the left and right sides.
 # Rules To Play The game
-* Players choose a colour and take turns. On each turn one counter is placed in an empty hexagonal cell.
+* Each player picks a color (e.g., red or blue) for their counters.
+* Players alternate placing one counter on any empty hexagon per turn.
 * Counters may not be moved except with the swap rule.
 * The first player to form a connected path of their counters linking the opposing sides of the board marked by their colour wins.
-* The four corner hexagons belong to both adjacent sides.
+
